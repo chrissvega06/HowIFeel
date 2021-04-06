@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HowIFeel</string>
+    <!--login-->
+    <string name="LoginPassword">Contraseña</string>
+    <string name="LoginEmail">Correo</string>
+    <string name="LoginBotonEntrar">Iniciar Sesion</string>
+    <string name="LoginBotonCrear">Crear Usuario</string>
+
+    <!--crear usuario-->
+    <string name="UserBotonCrear">Continuar</string>
+    <string name="UserBotonCancelar">Cancelar</string>
+</resources>

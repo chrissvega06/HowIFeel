@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005842647200",
+    "project_id": "howifeel-app",
+    "storage_bucket": "howifeel-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005842647200:android:d74e625edc96ef95a4e1c5",
+        "android_client_info": {
+          "package_name": "com.example.howifeel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005842647200-1t2hdr5qg512hu2m2gvmusk3ilq5bb1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAVHkEQlHImkNdzEKa4erUA8Dxvu8dF3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005842647200-1t2hdr5qg512hu2m2gvmusk3ilq5bb1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
